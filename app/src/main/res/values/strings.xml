@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NumbersProgram</string>
+    <string name="question1">Question1</string>
+    <string name="question2">Question2</string>
+    <string name="question3">Question3</string>
+</resources>
